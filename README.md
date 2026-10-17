@@ -349,7 +349,7 @@ UPIFlow-360-Digital-Payment-Intelligence/
 
 ## Author
 
-* **Name:** Arokiya Mejella B.
+* **Name:** Arokiya Mejella B
 * **Student ID:** AF05331719
 * **Organization:** Anudip Foundation
 * **Course:** DBA_AI
