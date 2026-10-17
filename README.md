@@ -308,7 +308,7 @@ Recommended format:
 
 ### 01 Executive Overview
 
-!\[Executive Overview](Visualizations/01\_Executive\_Overview.png)
+<img width="978" height="549" alt="01_Executive_Overview" src="https://github.com/user-attachments/assets/477df5c5-754f-4685-9f9d-cfbbe5d7b38b" />
 
 ### 02 App \& Merchant Insights
 
