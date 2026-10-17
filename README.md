@@ -317,41 +317,46 @@ Upload actual screenshots exported from the final Power BI dashboard into the `V
 
 ### 01 Executive Overview
 
-<img width="979" height="550" alt="Dashboard 1" src="https://github.com/user-attachments/assets/dd7570c3-89e8-4288-9b08-8f57e8d283c1" />
+![Executive Overview](<img width="978" height="549" alt="01_Executive_Overview" src="https://github.com/user-attachments/assets/59534845-5007-4fb8-8d14-ce6369372224" />
+)
 
 ### 02 App \& Merchant Insights
 
-<img width="977" height="548" alt="Dashboard 2" src="https://github.com/user-attachments/assets/c70c634a-3c51-498e-be23-f9385aa4929f" />
+![App & Merchant Insights](<img width="978" height="548" alt="02_App_Merchant_Insights" src="https://github.com/user-attachments/assets/bbb754fd-d05e-4f0c-856b-287792606364" />
+)
 
 ### 03 Reliability \& Operations
 
-<img width="978" height="548" alt="Dashboard 3" src="https://github.com/user-attachments/assets/d13f2e78-b717-437a-a888-41d8478e0d76" />
-```
+![Reliability & Operations](<img width="977" height="550" alt="03_Reliability_Operations" src="https://github.com/user-attachments/assets/5ef9bb12-f96d-48c4-96ff-648ea4da7a9e" />
+)```
 
 ## Project Folder Structure
 
 Use this structure only for files that actually exist:
 
 ```text
-UPIFlow-360-Digital-Payment-Intelligence/
+UPIFlow 360-Digital Payment Intelligence
 │
 ├── README.md
 │
-├── Dataset/
-│   └── UPIFlow360\_Raw\_Dataset.csv
-│
 ├── SQL/
-│   ├── database\_setup.sql
-│   ├── data\_cleaning.sql
-│   └── data\_analysis.sql
+│   └── UPI flow 360 SQL Queries.sql
+│
+├── Dataset/
+│   ├── UPIFlow 360 Raw Dataset.csv
+│   └── UPIFlow 360 Cleaned Dataset.csv
 │
 ├── PowerBI/
-│   └── UPIFlow360\_Digital\_Payment\_Intelligence.pbix
+│   └── UPIFlow 360 – Digital Payment Intelligence Dashboard.pbix
 │
-└── Visualizations/
-    ├── 01\_Executive\_Overview.png
-    ├── 02\_App\_Merchant\_Insights.png
-    └── 03\_Reliability\_Operations.png
+├── Screenshots/
+│   ├── Executive Overview.png
+│   ├── App & Merchant Insights.png
+│   └── Reliability & Operations.png
+│
+└── Documentation/
+    ├── Project_Report.pdf
+    └── Data_Dictionary.xlsx
 ```
 
 
