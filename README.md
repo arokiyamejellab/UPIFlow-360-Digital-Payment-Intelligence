@@ -82,7 +82,7 @@ The project demonstrates practical skills in SQL, data preparation, Power BI, DA
 ## Dataset Information
 
 **Dataset name:** UPIFlow 360 Cleaned Dataset  
-**Source:** UPIFlow 360\_Raw\_dataset  
+**Source:** UPIFlow 360 Raw dataset  
 **Format:** CSV  
 **Rows:** 5,000 transaction records
 
@@ -317,15 +317,15 @@ Upload actual screenshots exported from the final Power BI dashboard into the `V
 
 ### 01 Executive Overview
 
-!\[Executive Overview](Visualizations/01\_Executive\_Overview.png)
+<img width="979" height="550" alt="Dashboard 1" src="https://github.com/user-attachments/assets/dd7570c3-89e8-4288-9b08-8f57e8d283c1" />
 
 ### 02 App \& Merchant Insights
 
-!\[App \& Merchant Insights](Visualizations/02\_App\_Merchant\_Insights.png)
+<img width="977" height="548" alt="Dashboard 2" src="https://github.com/user-attachments/assets/c70c634a-3c51-498e-be23-f9385aa4929f" />
 
 ### 03 Reliability \& Operations
 
-!\[Reliability \& Operations](Visualizations/03\_Reliability\_Operations.png)
+<img width="978" height="548" alt="Dashboard 3" src="https://github.com/user-attachments/assets/d13f2e78-b717-437a-a888-41d8478e0d76" />
 ```
 
 ## Project Folder Structure
