@@ -312,11 +312,11 @@ Recommended format:
 
 ### 02 App \& Merchant Insights
 
-!\[App \& Merchant Insights](Visualizations/02\_App\_Merchant\_Insights.png)
+<img width="978" height="548" alt="02_App_Merchant_Insights" src="https://github.com/user-attachments/assets/44845186-6fa1-4925-84c9-8fe932765581" />
 
 ### 03 Reliability \& Operations
 
-!\[Reliability \& Operations](Visualizations/03\_Reliability\_Operations.png)
+<img width="977" height="550" alt="03_Reliability_Operations" src="https://github.com/user-attachments/assets/664c94bd-749c-40ce-b468-a08f8c652121" />
 
 ## Project Folder Structure
 
