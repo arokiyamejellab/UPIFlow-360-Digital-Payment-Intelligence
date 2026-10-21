@@ -338,9 +338,9 @@ UPIFlow-360-Digital-Payment-Intelligence/
 │   └── UPIFlow 360 – Digital Payment Intelligence  Dashboard
 │
 ├── Screenshot/
-│   ├── 01\_Executive\_Overview.png
-│   ├── 02\_App\_Merchant\_Insights.png
-│   └── 03\_Reliability\_Operations.png
+│   ├── 01 Executive Overview.png
+│   ├── 02 App Merchant Insights.png
+│   └── 03 Reliability Operations.png
 │
 └── Documentation/
     ├── Project_Report.pdf
