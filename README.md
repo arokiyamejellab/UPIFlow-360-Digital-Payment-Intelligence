@@ -308,15 +308,18 @@ Recommended format:
 
 ### 01 Executive Overview
 
-<img width="978" height="549" alt="01_Executive_Overview" src="https://github.com/user-attachments/assets/477df5c5-754f-4685-9f9d-cfbbe5d7b38b" />
+<img width="978" height="549" alt="01_Executive_Overview" src="https://github.com/user-attachments/assets/afe15f9d-331c-48e0-9ef3-76622e22b817" />
+
 
 ### 02 App \& Merchant Insights
 
-<img width="978" height="548" alt="02_App_Merchant_Insights" src="https://github.com/user-attachments/assets/44845186-6fa1-4925-84c9-8fe932765581" />
+<img width="978" height="548" alt="02_App_Merchant_Insights" src="https://github.com/user-attachments/assets/432c34fd-6d70-409a-8d12-0b681d39b6b2" />
+
 
 ### 03 Reliability \& Operations
 
-<img width="977" height="550" alt="03_Reliability_Operations" src="https://github.com/user-attachments/assets/664c94bd-749c-40ce-b468-a08f8c652121" />
+<img width="977" height="550" alt="03_Reliability_Operations" src="https://github.com/user-attachments/assets/899d68a6-0910-4fcf-ab82-8e6670e621c2" />
+
 
 ## Project Folder Structure
 
